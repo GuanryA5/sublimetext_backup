@@ -1,0 +1,788 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Administrator/Documents/project/scripts",
+		"/H/项目/脚本工具",
+		"/H/项目/Tools/check_scripts",
+		"/H/项目/lamp",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers"
+	],
+	"last_version": 3143,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 659.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontrol",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal: Open in project folder"
+					],
+					[
+						"ssmkd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"vim",
+						"View: Toggle Menu"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"sftp",
+						"SFTP: Browse Remote…"
+					],
+					[
+						"control",
+						"Install Package Control"
+					],
+					[
+						"pack",
+						"Install Package Control"
+					]
+				],
+				"width": 412.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/Documents/project/scripts/tools/include/public.sh",
+				"/C/Users/Administrator/Documents/project/scripts/lamp/include/public.sh",
+				"/C/Users/Administrator/Documents/project/sftp-config-alt.json",
+				"/C/Users/Administrator/Documents/project/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/H/项目/脚本工具/check_machine/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/H/项目/sublime project/scripts.sublime-project",
+				"/H/项目/Tools/check_scripts/sftp-config.json",
+				"/H/项目/lamp/lamp.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/10.203.3.14(测试服务器)",
+				"/H/项目/lamp/test.md",
+				"/H/项目/lamp/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownLivePreview.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/H/项目/lamp/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1521100103/118.25.12.172（腾讯云)/root/scripts/lamp/test",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/118.25.12.172（腾讯云)",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 76.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"public",
+						"tools\\include\\public.sh"
+					],
+					[
+						"public.sh",
+						"lamp\\include\\public.sh"
+					],
+					[
+						"publi",
+						"tools\\include\\public.sh"
+					],
+					[
+						"tools.sh",
+						"tools\\tools.sh"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 241.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1185.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Administrator/Documents/project/scripts/lamp/include/public.sh",
+					"settings":
+					{
+						"buffer_size": 35060,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Documents/project/scripts/tools/tools.sh",
+					"settings":
+					{
+						"buffer_size": 506,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Documents/project/scripts/tools/include/public.sh",
+					"settings":
+					{
+						"buffer_size": 608,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontrol",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal: Open in project folder"
+					],
+					[
+						"ssmkd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"vim",
+						"View: Toggle Menu"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"sftp",
+						"SFTP: Browse Remote…"
+					],
+					[
+						"control",
+						"Install Package Control"
+					],
+					[
+						"pack",
+						"Install Package Control"
+					]
+				],
+				"width": 412.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Administrator/Documents/project/scripts"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/Documents/project/scripts/tools/include/public.sh",
+				"/C/Users/Administrator/Documents/project/scripts/lamp/include/public.sh",
+				"/C/Users/Administrator/Documents/project/sftp-config-alt.json",
+				"/C/Users/Administrator/Documents/project/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/H/项目/脚本工具/check_machine/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/H/项目/sublime project/scripts.sublime-project",
+				"/H/项目/Tools/check_scripts/sftp-config.json",
+				"/H/项目/lamp/lamp.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/10.203.3.14(测试服务器)",
+				"/H/项目/lamp/test.md",
+				"/H/项目/lamp/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownLivePreview.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/H/项目/lamp/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1521100103/118.25.12.172（腾讯云)/root/scripts/lamp/test",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/118.25.12.172（腾讯云)",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Administrator\\Documents\\project\\scripts"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Administrator/Documents/project/scripts/lamp/include/public.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35060,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1521505984.83,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/Documents/project/scripts/tools/tools.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 506,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										363,
+										363
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1521445724.07,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/Documents/project/scripts/tools/include/public.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										421,
+										421
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												420,
+												421
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												418,
+												419
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"git_gutter_is_enabled": false,
+									"incomplete_sync": null,
+									"markdonw_live_preview_last_run": 1521445750.53,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 225.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.539408866995,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 76.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,759,44,54,1237",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pbli",
+						"lamp\\include\\public.sh"
+					],
+					[
+						"publi",
+						"tools\\include\\public.sh"
+					],
+					[
+						"public",
+						"tools\\include\\public.sh"
+					],
+					[
+						"public.sh",
+						"lamp\\include\\public.sh"
+					],
+					[
+						"tools.sh",
+						"tools\\tools.sh"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 3,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 241.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/H/项目/sublime project/scripts.sublime-workspace"
+		]
+	}
+}

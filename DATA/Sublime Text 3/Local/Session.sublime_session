@@ -1,0 +1,479 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Administrator/Documents/project/scripts",
+		"/H/项目/脚本工具",
+		"/H/项目/Tools/check_scripts",
+		"/H/项目/lamp",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers"
+	],
+	"last_version": 3143,
+	"last_window_id": 13,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 655.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "packagecontrol",
+				"selected_items":
+				[
+					[
+						"packagecontrol",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal: Open in project folder"
+					],
+					[
+						"ssmkd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"vim",
+						"View: Toggle Menu"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"sftp",
+						"SFTP: Browse Remote…"
+					],
+					[
+						"control",
+						"Install Package Control"
+					],
+					[
+						"pack",
+						"Install Package Control"
+					]
+				],
+				"width": 412.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/Documents/project/sftp-config-alt.json",
+				"/C/Users/Administrator/Documents/project/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/H/项目/脚本工具/check_machine/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/H/项目/sublime project/scripts.sublime-project",
+				"/H/项目/Tools/check_scripts/sftp-config.json",
+				"/H/项目/lamp/lamp.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/10.203.3.14(测试服务器)",
+				"/H/项目/lamp/test.md",
+				"/H/项目/lamp/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownLivePreview.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/H/项目/lamp/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1521100103/118.25.12.172（腾讯云)/root/scripts/lamp/test",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/118.25.12.172（腾讯云)",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 76.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 136.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1114.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packagecontrol",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal: Open in project folder"
+					],
+					[
+						"ssmkd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"vim",
+						"View: Toggle Menu"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown pr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"sftp",
+						"SFTP: Browse Remote…"
+					],
+					[
+						"control",
+						"Install Package Control"
+					],
+					[
+						"pack",
+						"Install Package Control"
+					]
+				],
+				"width": 412.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Administrator/Documents/project/scripts"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/Documents/project/sftp-config-alt.json",
+				"/C/Users/Administrator/Documents/project/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/H/项目/脚本工具/check_machine/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/H/项目/sublime project/scripts.sublime-project",
+				"/H/项目/Tools/check_scripts/sftp-config.json",
+				"/H/项目/lamp/lamp.sh",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/10.203.3.14(测试服务器)",
+				"/H/项目/lamp/test.md",
+				"/H/项目/lamp/README.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownLivePreview.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/H/项目/lamp/sftp-config.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1521100103/118.25.12.172（腾讯云)/root/scripts/lamp/test",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/118.25.12.172（腾讯云)",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Administrator\\Documents\\project\\scripts"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 76.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,778,74,77,1196",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 136.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/H/项目/sublime project/scripts.sublime-workspace"
+		]
+	}
+}
